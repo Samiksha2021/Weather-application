@@ -1,0 +1,18 @@
+body{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+}
+.card{
+    width: 330px;
+    height: 400px;
+    background-color: antiquewhite;
+    border-radius: 20px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: column;
+}
+p{
+    font-size: 30px;
+}
